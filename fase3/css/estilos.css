@@ -1,0 +1,18 @@
+header{
+    
+    text-align: center;
+}
+main{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    background-color: color | darkturquoise | inheri
+}
+section{
+    grid-column: 4/5;
+}
+article{
+    grid-column: 1/4;
+}
+header{
+    color: rgb(11, 74, 156);
+}
